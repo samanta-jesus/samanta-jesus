@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Samanta de Jesus
-- 👀 I’m interested in  Segurança da Informação | Pentest | Devops | DevSecops |
-- 🌱 I’m currently learning  : MBA em Segurança da Informação, bootcamp de cybersegurança, bootcamps de Devops, e Inglês.
+- 👀 I’m interested in  Segurança da Informação | Pentest | Devops | DevSecOps | Cybersecurity |
+- 🌱 I’m currently learning  : Gestão em Tecnologia.
 - 💞️ I’m looking to collaborate on  em TI 
 - 📫 How to reach me meu perfil profissional: https://www.linkedin.com/in/samanta-jesus-08a515212/
 
